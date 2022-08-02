@@ -1,0 +1,10 @@
+Django~=3.2.13
+django-cors-headers~=3.5.0
+django-private-storage~=3.0
+djangorestframework~=3.12.1
+drf-jwt~=1.19.2
+pyjwt~=2.4.0
+django-generate-secret-key~=1.0.2
+requests~=2.27.0
+PyYAML~=5.4.1
+uritemplate~=4.1.1 # required for OpenAPI schema
